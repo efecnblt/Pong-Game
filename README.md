@@ -14,3 +14,7 @@ This is simple Pong Game implemented in python. There are 4 .py files in the fil
 This game starts with the ball thrown from the middle to the corner and the users send this ball across with the pedals they control. If the user misses the ball, the score is written to the opposite side and the ball moves again.
 
 ![pong_game](https://github.com/efecnblt/Basics-Games-with-Python/blob/main/Pong%20Game/pong_game.gif?raw=true)
+
+## Geri Bildirim
+
+If you have any feedback, please contact me at e.canbolatlnx@gmail.com
