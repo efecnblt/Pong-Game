@@ -1,7 +1,7 @@
 # Pong-Game
 Simple pong game in python
 
-*This is simple Pong Game implemented in python. There are 4 .py files in the file. These are respectively;*  
+This is simple Pong Game implemented in python. There are 4 .py files in the file. These are respectively;  
 
 **ball.py:** It is the file that provides the creation, movement and direction of the ball in motion.    
 
@@ -11,6 +11,6 @@ Simple pong game in python
 
 **main.py:** It is our main file. We create 2 pedals by sending the coordinates of each one, right and left. İf the ball passes the pedal, we increase the score and take the ball back to the middle position. The **`ball.bounce_x()`** function causes the ball to bounce back and change direction when it hits the pedal.  
 
-*This game starts with the ball thrown from the middle to the corner and the users send this ball across with the pedals they control. If the user misses the ball, the score is written to the opposite side and the ball moves again.*
+This game starts with the ball thrown from the middle to the corner and the users send this ball across with the pedals they control. If the user misses the ball, the score is written to the opposite side and the ball moves again.
 
 ![pong_game](https://github.com/efecnblt/Basics-Games-with-Python/blob/main/Pong%20Game/pong_game.gif?raw=true)
