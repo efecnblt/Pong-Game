@@ -1,5 +1,5 @@
 # Pong-Game
-Simple Pong Game in Python
+Simple pong game in python
 
 *This is simple Pong Game implemented in python. There are 4 .py files in the file. These are respectively;*  
 
