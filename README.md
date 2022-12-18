@@ -1,7 +1,7 @@
 # Pong-Game
 Simple pong game in python
 
-This is simple Pong Game implemented in python. There are 4 .py files in the file. These are respectively;  
+This is simple Pong Game implemented in python. There are 4 .py files in the project. These are respectively;  
 
 **ball.py:** It is the file that provides the creation, movement and direction of the ball in motion.    
 
